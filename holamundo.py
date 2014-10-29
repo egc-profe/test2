@@ -1,9 +1,9 @@
 def holamundo():
-	"""Función hola mundo"""
+	"""Función adios mundo"""
 	print "hola mundo"
 
 def adiosmundo():
-	"""Función adios mundo"""
+	"""Función hola mundo"""
 	print "adios mundo"
 
 
