@@ -1,1 +1,2 @@
-print "Hola mundo, simplificado en una línea"
+print "Hola mundo"
+print "Hola mundo otra vez"
